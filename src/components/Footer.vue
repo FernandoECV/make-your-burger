@@ -20,10 +20,10 @@ export default {
     display: flex;
     align-items: center;
     justify-content: center;
-    bottom: 0;
+    /* bottom: 0; */
     width: 100%;
     /* propriedade para jogar o footer todo para baixo */
-    position: absolute;
+    /* position: absolute; */
   }
   
 </style>
