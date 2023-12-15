@@ -116,12 +116,12 @@
       "id": 3
     },
     {
-      "nome": "Joaquina",
-      "carne": "Alcatra",
+      "nome": "Manoel",
+      "carne": "Maminha",
       "pao": "3 Queijos",
       "opcionais": [
         "Tomate",
-        "Salame"
+        "Cheddar"
       ],
       "status": "Solicitado",
       "id": 4
