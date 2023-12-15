@@ -114,7 +114,7 @@
  <style scoped>
 
     #burger-form {
-    max-width: 400px;
+    max-width: 300px;
     margin: 0 auto;
   }
   .input-container {
