@@ -127,12 +127,12 @@
       "id": 4
     },
     {
-      "nome": "Augusto",
-      "carne": "Maminha",
-      "pao": "Pão Mexicano",
+      "nome": "Gustavo",
+      "carne": "Picanha",
+      "pao": "Integral",
       "opcionais": [
-        "Salame",
-        "Cheddar"
+        "Bacon",
+        "Salame"
       ],
       "status": "Solicitado",
       "id": 5
